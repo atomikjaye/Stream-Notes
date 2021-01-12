@@ -3,6 +3,6 @@
 
 List of notes for each programming/tech stream AtomikJaye has done.
 ## Table of Contents
-***
 ### January 2021
 - **[January 8th 2021](2021_01_08.md)**
+- **[January 11th 2021](2021_01_11.md)**
